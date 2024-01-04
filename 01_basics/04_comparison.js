@@ -1,12 +1,21 @@
-// console.log(2>1);
+// console.log(2 > 1);
+// console.log(2 >= 1);
+// console.log(2 < 1);
+// console.log(2 == 1);
+// console.log(2 != 1);
 
-// console.log("2"+1);
-// console.log("2"< 1);
 
-const id = Symbol(12333);
-const id2 = Symbol(12333);
-console.log(id == id2);
+// console.log("2" > 1);
+// console.log("02" > 1);
 
-let biginfffft = 284892853780393434n;
+console.log(null > 0);
+console.log(null == 0);
+console.log(null >= 0);
 
-console.log(typeof biginfffft);
+console.log(undefined == 0);
+console.log(undefined > 0);
+console.log(undefined < 0);
+
+// === 
+
+console.log("2" === 2);
