@@ -1,4 +1,4 @@
-// singleton
+// singleton //made with constructor // Object.create()
 // Object.create
 
 // object literals
@@ -18,7 +18,7 @@ const JsUser = {
 }
 
 // console.log(JsUser.email)
-// console.log(JsUser["email"])
+// console.log(JsUser["email"]) //
 // console.log(JsUser["full name"])
 // console.log(JsUser[mySym])
 
